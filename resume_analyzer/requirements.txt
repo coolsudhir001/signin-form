@@ -1,0 +1,7 @@
+# Resume Analyzer Tool - Requirements
+# No external dependencies required - uses only Python standard library
+# Python 3.7+
+
+# Optional: For testing and development
+pytest>=7.0.0
+pytest-cov>=3.0.0
